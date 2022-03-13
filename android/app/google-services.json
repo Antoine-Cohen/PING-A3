@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "756759624989",
+    "firebase_url": "https://fir-test-23032-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "fir-test-23032",
+    "storage_bucket": "fir-test-23032.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756759624989:android:42b48a8a9173c0bf2b75f4",
+        "android_client_info": {
+          "package_name": "com.go2r.firebase_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "756759624989-8h4kppplqddgf6hvpd5i2um6utagagee.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoTjzJ7FbGWTRAmBQMP1K63Ckew2LqqSE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "756759624989-8h4kppplqddgf6hvpd5i2um6utagagee.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
